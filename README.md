@@ -17,13 +17,13 @@ I built it to keep myself organised, track my weekly progress, and store my note
 
 -What I’m Learning:
 
-  -Better time management and study discipline
+    -Better time management and study discipline
 
-  -Organising work and notes effectively
+    -Organising work and notes effectively
+ 
+    -Applying CS knowledge through small coding tasks
 
-  -Applying CS knowledge through small coding tasks
-
-  -Strengthening understanding of Maths and Physics concepts
+    -Strengthening understanding of Maths and Physics concepts
 
 -Contributions:
 This is a personal project, but suggestions and feedback are welcome!
