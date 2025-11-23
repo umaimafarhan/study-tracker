@@ -15,7 +15,7 @@ I built it to keep myself organised, track my weekly progress, and store my note
     Clear Folder Structure:
        Everything is organised by subject so it’s easy to navigate and update.
 
--What I’m Learning:
+-What I’m Learning: 
 
     -Better time management and study discipline
 
