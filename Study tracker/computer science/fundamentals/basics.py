@@ -12,3 +12,12 @@ print("Multiplication:", a * b)
 print("Division:", a / b)
 print("Floor Division:", a // b)
 print("Power:", a ** b)
+
+
+#Taking Inputs using f string
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print("Hello", name)
+print(f"My name is {name} and I am {age} years old.")
